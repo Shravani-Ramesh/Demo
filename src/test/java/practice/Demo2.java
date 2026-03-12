@@ -7,6 +7,7 @@ public class Demo2 {
 		System.out.println("Practicing pull operation");
 		System.out.println("performing project request by creating new branch");
 		System.out.println("Hiiiiiiii");
+	    System.out.println("practicing git conflict from ATE workspace");
 	    System.out.println("Practicing git conflict from FrameWork Workspace");
 
 	}
